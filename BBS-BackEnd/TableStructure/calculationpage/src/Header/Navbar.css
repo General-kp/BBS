@@ -1,0 +1,33 @@
+.menu{
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.349);
+}
+
+.menu-title{
+    font-size: 38px !important;;
+    font-weight: bolder;
+    font-family: 'Roboto';
+}
+
+.menu-items{
+    font-size: 18px !important;
+    font-weight: bold;
+    font-family: 'Roboto';
+   
+}
+.menu-items .nav-link,
+.menu-items .nav-item {
+  margin-right: 10px; /* Adjust the value based on your preference */
+}
+
+.menu-items .nav-link:not(:last-child),
+.menu-items .nav-item:not(:last-child) {
+  margin-right: 10px; /* Adjust the value based on your preference */
+}
+
+.logout-button{
+    background-color: black !important;
+    color: white  !important;
+    border-radius: 20% !important;
+    width: 75px;
+}
