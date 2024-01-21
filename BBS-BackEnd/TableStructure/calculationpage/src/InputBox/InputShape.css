@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-body{
+    background: #D9D9D9;
+}
+
+.Input-title{
+    text-align: center;
+    
+}
+
+#form-options{
+    margin-top: 18px;
+    font-weight: bold;
+}
+
+.Input-placeholders{
+    width: 1206px;
+}
+
+.button-container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.table-heading {
+    background-color: black;
+    color: white;
+  }
